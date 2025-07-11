@@ -2,6 +2,10 @@
 
 A simple and interactive daily water intake tracker built using Streamlit. This app helps you calculate your recommended daily water intake based on your weight and activity level, log your consumption, and track your progress throughout the day.
 
+🔗 Live App:
+
+👉 Try it here: https://waterintaketracker.streamlit.app/
+
 🚀 Features
 
 🔢 Personalized Calculation of daily water requirement.
